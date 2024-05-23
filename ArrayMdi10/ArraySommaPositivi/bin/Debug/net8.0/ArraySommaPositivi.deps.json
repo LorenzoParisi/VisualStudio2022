@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArraySommaPositivi/1.0.0": {
+        "runtime": {
+          "ArraySommaPositivi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArraySommaPositivi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

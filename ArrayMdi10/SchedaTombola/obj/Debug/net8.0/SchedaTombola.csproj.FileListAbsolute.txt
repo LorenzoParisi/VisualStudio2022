@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\bin\Debug\net8.0\SchedaTombola.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\bin\Debug\net8.0\SchedaTombola.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\bin\Debug\net8.0\SchedaTombola.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\bin\Debug\net8.0\SchedaTombola.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\bin\Debug\net8.0\SchedaTombola.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\obj\Debug\net8.0\SchedaTombola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\obj\Debug\net8.0\SchedaTombola.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\obj\Debug\net8.0\SchedaTombola.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\obj\Debug\net8.0\SchedaTombola.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\obj\Debug\net8.0\SchedaTombola.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\obj\Debug\net8.0\refint\SchedaTombola.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\obj\Debug\net8.0\SchedaTombola.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\obj\Debug\net8.0\SchedaTombola.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\SchedaTombola\obj\Debug\net8.0\ref\SchedaTombola.dll

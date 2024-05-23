@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\bin\Debug\net8.0\ArraySommaPositivi.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\bin\Debug\net8.0\ArraySommaPositivi.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\bin\Debug\net8.0\ArraySommaPositivi.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\bin\Debug\net8.0\ArraySommaPositivi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\bin\Debug\net8.0\ArraySommaPositivi.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\obj\Debug\net8.0\ArraySommaPositivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\obj\Debug\net8.0\ArraySommaPositivi.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\obj\Debug\net8.0\ArraySommaPositivi.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\obj\Debug\net8.0\ArraySommaPositivi.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\obj\Debug\net8.0\ArraySommaPositivi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\obj\Debug\net8.0\refint\ArraySommaPositivi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\obj\Debug\net8.0\ArraySommaPositivi.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\obj\Debug\net8.0\ArraySommaPositivi.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArraySommaPositivi\obj\Debug\net8.0\ref\ArraySommaPositivi.dll

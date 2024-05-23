@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\bin\Debug\net8.0\ArrayInteri.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\bin\Debug\net8.0\ArrayInteri.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\bin\Debug\net8.0\ArrayInteri.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\bin\Debug\net8.0\ArrayInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\bin\Debug\net8.0\ArrayInteri.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\obj\Debug\net8.0\ArrayInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\obj\Debug\net8.0\ArrayInteri.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\obj\Debug\net8.0\ArrayInteri.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\obj\Debug\net8.0\ArrayInteri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\obj\Debug\net8.0\ArrayInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\obj\Debug\net8.0\refint\ArrayInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\obj\Debug\net8.0\ArrayInteri.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\obj\Debug\net8.0\ArrayInteri.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteri\obj\Debug\net8.0\ref\ArrayInteri.dll

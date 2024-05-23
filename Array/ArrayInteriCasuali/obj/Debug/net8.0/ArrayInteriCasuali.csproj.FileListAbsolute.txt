@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\bin\Debug\net8.0\ArrayInteriCasuali.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\bin\Debug\net8.0\ArrayInteriCasuali.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\bin\Debug\net8.0\ArrayInteriCasuali.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\bin\Debug\net8.0\ArrayInteriCasuali.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\bin\Debug\net8.0\ArrayInteriCasuali.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\obj\Debug\net8.0\ArrayInteriCasuali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\obj\Debug\net8.0\ArrayInteriCasuali.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\obj\Debug\net8.0\ArrayInteriCasuali.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\obj\Debug\net8.0\ArrayInteriCasuali.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\obj\Debug\net8.0\ArrayInteriCasuali.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\obj\Debug\net8.0\refint\ArrayInteriCasuali.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\obj\Debug\net8.0\ArrayInteriCasuali.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\obj\Debug\net8.0\ArrayInteriCasuali.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\ArrayInteriCasuali\obj\Debug\net8.0\ref\ArrayInteriCasuali.dll

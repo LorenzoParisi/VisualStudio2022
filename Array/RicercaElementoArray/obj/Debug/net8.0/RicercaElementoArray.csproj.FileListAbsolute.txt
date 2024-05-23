@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\bin\Debug\net8.0\RicercaElementoArray.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\bin\Debug\net8.0\RicercaElementoArray.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\bin\Debug\net8.0\RicercaElementoArray.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\bin\Debug\net8.0\RicercaElementoArray.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\bin\Debug\net8.0\RicercaElementoArray.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\obj\Debug\net8.0\RicercaElementoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\obj\Debug\net8.0\RicercaElementoArray.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\obj\Debug\net8.0\RicercaElementoArray.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\obj\Debug\net8.0\RicercaElementoArray.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\obj\Debug\net8.0\RicercaElementoArray.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\obj\Debug\net8.0\refint\RicercaElementoArray.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\obj\Debug\net8.0\RicercaElementoArray.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\obj\Debug\net8.0\RicercaElementoArray.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\RicercaElementoArray\obj\Debug\net8.0\ref\RicercaElementoArray.dll

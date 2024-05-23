@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\bin\Debug\net8.0\MediaArray.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\bin\Debug\net8.0\MediaArray.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\bin\Debug\net8.0\MediaArray.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\bin\Debug\net8.0\MediaArray.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\bin\Debug\net8.0\MediaArray.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\obj\Debug\net8.0\MediaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\obj\Debug\net8.0\MediaArray.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\obj\Debug\net8.0\MediaArray.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\obj\Debug\net8.0\MediaArray.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\obj\Debug\net8.0\MediaArray.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\obj\Debug\net8.0\refint\MediaArray.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\obj\Debug\net8.0\MediaArray.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\obj\Debug\net8.0\MediaArray.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Array\MediaArray\obj\Debug\net8.0\ref\MediaArray.dll

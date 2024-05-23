@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\bin\Debug\net8.0\ArrayMultipli10.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\bin\Debug\net8.0\ArrayMultipli10.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\bin\Debug\net8.0\ArrayMultipli10.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\bin\Debug\net8.0\ArrayMultipli10.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\bin\Debug\net8.0\ArrayMultipli10.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\obj\Debug\net8.0\ArrayMultipli10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\obj\Debug\net8.0\ArrayMultipli10.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\obj\Debug\net8.0\ArrayMultipli10.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\obj\Debug\net8.0\ArrayMultipli10.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\obj\Debug\net8.0\ArrayMultipli10.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\obj\Debug\net8.0\refint\ArrayMultipli10.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\obj\Debug\net8.0\ArrayMultipli10.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\obj\Debug\net8.0\ArrayMultipli10.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMdi10\ArrayMultipli10\obj\Debug\net8.0\ref\ArrayMultipli10.dll
