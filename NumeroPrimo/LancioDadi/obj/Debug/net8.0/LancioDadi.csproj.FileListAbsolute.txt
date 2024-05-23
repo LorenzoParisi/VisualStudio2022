@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\bin\Debug\net8.0\LancioDadi.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\bin\Debug\net8.0\LancioDadi.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\bin\Debug\net8.0\LancioDadi.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\bin\Debug\net8.0\LancioDadi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\bin\Debug\net8.0\LancioDadi.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\obj\Debug\net8.0\LancioDadi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\obj\Debug\net8.0\LancioDadi.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\obj\Debug\net8.0\LancioDadi.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\obj\Debug\net8.0\LancioDadi.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\obj\Debug\net8.0\LancioDadi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\obj\Debug\net8.0\refint\LancioDadi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\obj\Debug\net8.0\LancioDadi.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\obj\Debug\net8.0\LancioDadi.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\LancioDadi\obj\Debug\net8.0\ref\LancioDadi.dll

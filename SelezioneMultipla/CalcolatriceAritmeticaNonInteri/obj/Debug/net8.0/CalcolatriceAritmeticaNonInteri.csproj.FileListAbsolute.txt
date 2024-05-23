@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\bin\Debug\net8.0\CalcolatriceAritmeticaNonInteri.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\bin\Debug\net8.0\CalcolatriceAritmeticaNonInteri.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\bin\Debug\net8.0\CalcolatriceAritmeticaNonInteri.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\bin\Debug\net8.0\CalcolatriceAritmeticaNonInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\bin\Debug\net8.0\CalcolatriceAritmeticaNonInteri.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\obj\Debug\net8.0\CalcolatriceAritmeticaNonInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\obj\Debug\net8.0\CalcolatriceAritmeticaNonInteri.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\obj\Debug\net8.0\CalcolatriceAritmeticaNonInteri.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\obj\Debug\net8.0\CalcolatriceAritmeticaNonInteri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\obj\Debug\net8.0\CalcolatriceAritmeticaNonInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\obj\Debug\net8.0\refint\CalcolatriceAritmeticaNonInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\obj\Debug\net8.0\CalcolatriceAritmeticaNonInteri.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\obj\Debug\net8.0\CalcolatriceAritmeticaNonInteri.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmeticaNonInteri\obj\Debug\net8.0\ref\CalcolatriceAritmeticaNonInteri.dll

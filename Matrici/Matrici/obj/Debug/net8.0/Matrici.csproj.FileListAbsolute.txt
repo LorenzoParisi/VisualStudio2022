@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\bin\Debug\net8.0\Matrici.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\bin\Debug\net8.0\Matrici.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\bin\Debug\net8.0\Matrici.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\bin\Debug\net8.0\Matrici.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\bin\Debug\net8.0\Matrici.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\obj\Debug\net8.0\Matrici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\obj\Debug\net8.0\Matrici.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\obj\Debug\net8.0\Matrici.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\obj\Debug\net8.0\Matrici.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\obj\Debug\net8.0\Matrici.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\obj\Debug\net8.0\refint\Matrici.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\obj\Debug\net8.0\Matrici.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\obj\Debug\net8.0\Matrici.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Matrici\Matrici\obj\Debug\net8.0\ref\Matrici.dll

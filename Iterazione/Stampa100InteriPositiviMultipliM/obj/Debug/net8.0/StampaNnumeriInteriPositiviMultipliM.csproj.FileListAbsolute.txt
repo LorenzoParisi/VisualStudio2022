@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\bin\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\bin\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\bin\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\bin\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\bin\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\obj\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\obj\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\obj\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\obj\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\obj\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\obj\Debug\net8.0\refint\StampaNnumeriInteriPositiviMultipliM.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\obj\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\obj\Debug\net8.0\StampaNnumeriInteriPositiviMultipliM.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100InteriPositiviMultipliM\obj\Debug\net8.0\ref\StampaNnumeriInteriPositiviMultipliM.dll

@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\bin\Debug\net8.0\ArrayParalleli.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\bin\Debug\net8.0\ArrayParalleli.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\bin\Debug\net8.0\ArrayParalleli.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\bin\Debug\net8.0\ArrayParalleli.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\bin\Debug\net8.0\ArrayParalleli.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\obj\Debug\net8.0\ArrayParalleli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\obj\Debug\net8.0\ArrayParalleli.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\obj\Debug\net8.0\ArrayParalleli.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\obj\Debug\net8.0\ArrayParalleli.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\obj\Debug\net8.0\ArrayParalleli.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\obj\Debug\net8.0\refint\ArrayParalleli.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\obj\Debug\net8.0\ArrayParalleli.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\obj\Debug\net8.0\ArrayParalleli.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SpesaProdotti\ArrayParalleli\obj\Debug\net8.0\ref\ArrayParalleli.dll

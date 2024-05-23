@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\bin\Debug\net8.0\RandomNInteri.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\bin\Debug\net8.0\RandomNInteri.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\bin\Debug\net8.0\RandomNInteri.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\bin\Debug\net8.0\RandomNInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\bin\Debug\net8.0\RandomNInteri.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\obj\Debug\net8.0\RandomNInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\obj\Debug\net8.0\RandomNInteri.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\obj\Debug\net8.0\RandomNInteri.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\obj\Debug\net8.0\RandomNInteri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\obj\Debug\net8.0\RandomNInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\obj\Debug\net8.0\refint\RandomNInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\obj\Debug\net8.0\RandomNInteri.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\obj\Debug\net8.0\RandomNInteri.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\RandomNInteri\obj\Debug\net8.0\ref\RandomNInteri.dll

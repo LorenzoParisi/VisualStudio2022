@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\bin\Debug\net8.0\StampaInteriInfSup.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\bin\Debug\net8.0\StampaInteriInfSup.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\bin\Debug\net8.0\StampaInteriInfSup.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\bin\Debug\net8.0\StampaInteriInfSup.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\bin\Debug\net8.0\StampaInteriInfSup.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\obj\Debug\net8.0\StampaInteriInfSup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\obj\Debug\net8.0\StampaInteriInfSup.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\obj\Debug\net8.0\StampaInteriInfSup.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\obj\Debug\net8.0\StampaInteriInfSup.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\obj\Debug\net8.0\StampaInteriInfSup.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\obj\Debug\net8.0\refint\StampaInteriInfSup.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\obj\Debug\net8.0\StampaInteriInfSup.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\obj\Debug\net8.0\StampaInteriInfSup.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\StampaInteriInfSup\obj\Debug\net8.0\ref\StampaInteriInfSup.dll

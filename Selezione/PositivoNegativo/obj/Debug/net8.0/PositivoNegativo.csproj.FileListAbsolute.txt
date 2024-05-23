@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\bin\Debug\net8.0\PositivoNegativo.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\bin\Debug\net8.0\PositivoNegativo.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\bin\Debug\net8.0\PositivoNegativo.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\bin\Debug\net8.0\PositivoNegativo.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\bin\Debug\net8.0\PositivoNegativo.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\obj\Debug\net8.0\PositivoNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\obj\Debug\net8.0\PositivoNegativo.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\obj\Debug\net8.0\PositivoNegativo.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\obj\Debug\net8.0\PositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\obj\Debug\net8.0\PositivoNegativo.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\obj\Debug\net8.0\refint\PositivoNegativo.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\obj\Debug\net8.0\PositivoNegativo.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\obj\Debug\net8.0\PositivoNegativo.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\PositivoNegativo\obj\Debug\net8.0\ref\PositivoNegativo.dll

@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\bin\Debug\net8.0\Azienda.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\bin\Debug\net8.0\Azienda.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\bin\Debug\net8.0\Azienda.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\bin\Debug\net8.0\Azienda.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\bin\Debug\net8.0\Azienda.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\obj\Debug\net8.0\Azienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\obj\Debug\net8.0\Azienda.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\obj\Debug\net8.0\Azienda.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\obj\Debug\net8.0\Azienda.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\obj\Debug\net8.0\Azienda.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\obj\Debug\net8.0\refint\Azienda.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\obj\Debug\net8.0\Azienda.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\obj\Debug\net8.0\Azienda.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Azienda\Azienda\obj\Debug\net8.0\ref\Azienda.dll

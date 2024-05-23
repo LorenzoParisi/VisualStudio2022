@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\bin\Debug\net8.0\Somma2Reali.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\bin\Debug\net8.0\Somma2Reali.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\bin\Debug\net8.0\Somma2Reali.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\bin\Debug\net8.0\Somma2Reali.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\bin\Debug\net8.0\Somma2Reali.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\obj\Debug\net8.0\Somma2Reali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\obj\Debug\net8.0\Somma2Reali.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\obj\Debug\net8.0\Somma2Reali.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\obj\Debug\net8.0\Somma2Reali.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\obj\Debug\net8.0\Somma2Reali.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\obj\Debug\net8.0\refint\Somma2Reali.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\obj\Debug\net8.0\Somma2Reali.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\obj\Debug\net8.0\Somma2Reali.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Somma2Reali\obj\Debug\net8.0\ref\Somma2Reali.dll

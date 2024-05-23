@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\bin\Debug\net8.0\Triangolo.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\bin\Debug\net8.0\Triangolo.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\bin\Debug\net8.0\Triangolo.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\bin\Debug\net8.0\Triangolo.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\bin\Debug\net8.0\Triangolo.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\obj\Debug\net8.0\Triangolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\obj\Debug\net8.0\Triangolo.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\obj\Debug\net8.0\Triangolo.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\obj\Debug\net8.0\Triangolo.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\obj\Debug\net8.0\Triangolo.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\obj\Debug\net8.0\refint\Triangolo.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\obj\Debug\net8.0\Triangolo.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\obj\Debug\net8.0\Triangolo.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\Triangolo\obj\Debug\net8.0\ref\Triangolo.dll

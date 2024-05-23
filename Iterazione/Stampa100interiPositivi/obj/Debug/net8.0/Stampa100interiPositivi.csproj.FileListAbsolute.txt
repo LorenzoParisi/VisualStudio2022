@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\bin\Debug\net8.0\Stampa100interiPositivi.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\bin\Debug\net8.0\Stampa100interiPositivi.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\bin\Debug\net8.0\Stampa100interiPositivi.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\bin\Debug\net8.0\Stampa100interiPositivi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\bin\Debug\net8.0\Stampa100interiPositivi.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\obj\Debug\net8.0\Stampa100interiPositivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\obj\Debug\net8.0\Stampa100interiPositivi.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\obj\Debug\net8.0\Stampa100interiPositivi.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\obj\Debug\net8.0\Stampa100interiPositivi.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\obj\Debug\net8.0\Stampa100interiPositivi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\obj\Debug\net8.0\refint\Stampa100interiPositivi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\obj\Debug\net8.0\Stampa100interiPositivi.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\obj\Debug\net8.0\Stampa100interiPositivi.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositivi\obj\Debug\net8.0\ref\Stampa100interiPositivi.dll

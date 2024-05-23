@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\bin\Debug\net8.0\CalcoloFattoriale.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\bin\Debug\net8.0\CalcoloFattoriale.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\bin\Debug\net8.0\CalcoloFattoriale.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\bin\Debug\net8.0\CalcoloFattoriale.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\bin\Debug\net8.0\CalcoloFattoriale.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\obj\Debug\net8.0\CalcoloFattoriale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\obj\Debug\net8.0\CalcoloFattoriale.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\obj\Debug\net8.0\CalcoloFattoriale.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\obj\Debug\net8.0\CalcoloFattoriale.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\obj\Debug\net8.0\CalcoloFattoriale.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\obj\Debug\net8.0\refint\CalcoloFattoriale.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\obj\Debug\net8.0\CalcoloFattoriale.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\obj\Debug\net8.0\CalcoloFattoriale.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\CalcoloFattoriale\obj\Debug\net8.0\ref\CalcoloFattoriale.dll

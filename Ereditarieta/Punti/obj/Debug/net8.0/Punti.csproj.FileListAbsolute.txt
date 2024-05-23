@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\bin\Debug\net8.0\Punti.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\bin\Debug\net8.0\Punti.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\bin\Debug\net8.0\Punti.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\bin\Debug\net8.0\Punti.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\bin\Debug\net8.0\Punti.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\obj\Debug\net8.0\Punti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\obj\Debug\net8.0\Punti.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\obj\Debug\net8.0\Punti.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\obj\Debug\net8.0\Punti.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\obj\Debug\net8.0\Punti.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\obj\Debug\net8.0\refint\Punti.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\obj\Debug\net8.0\Punti.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\obj\Debug\net8.0\Punti.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Punti\obj\Debug\net8.0\ref\Punti.dll

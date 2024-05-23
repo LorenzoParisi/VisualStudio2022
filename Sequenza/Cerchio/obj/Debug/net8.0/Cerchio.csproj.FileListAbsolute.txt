@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\bin\Debug\net8.0\Cerchio.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\bin\Debug\net8.0\Cerchio.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\bin\Debug\net8.0\Cerchio.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\bin\Debug\net8.0\Cerchio.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\bin\Debug\net8.0\Cerchio.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\obj\Debug\net8.0\Cerchio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\obj\Debug\net8.0\Cerchio.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\obj\Debug\net8.0\Cerchio.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\obj\Debug\net8.0\Cerchio.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\obj\Debug\net8.0\Cerchio.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\obj\Debug\net8.0\refint\Cerchio.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\obj\Debug\net8.0\Cerchio.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\obj\Debug\net8.0\Cerchio.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\Cerchio\obj\Debug\net8.0\ref\Cerchio.dll

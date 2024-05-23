@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\obj\Debug\net8.0\refint\FigureGeometriche.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\FigureGeometriche\obj\Debug\net8.0\ref\FigureGeometriche.dll

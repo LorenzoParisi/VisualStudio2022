@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\bin\Debug\net8.0\MultiploN.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\bin\Debug\net8.0\MultiploN.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\bin\Debug\net8.0\MultiploN.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\bin\Debug\net8.0\MultiploN.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\bin\Debug\net8.0\MultiploN.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\obj\Debug\net8.0\MultiploN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\obj\Debug\net8.0\MultiploN.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\obj\Debug\net8.0\MultiploN.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\obj\Debug\net8.0\MultiploN.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\obj\Debug\net8.0\MultiploN.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\obj\Debug\net8.0\refint\MultiploN.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\obj\Debug\net8.0\MultiploN.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\obj\Debug\net8.0\MultiploN.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Selezione\MultiploN\obj\Debug\net8.0\ref\MultiploN.dll

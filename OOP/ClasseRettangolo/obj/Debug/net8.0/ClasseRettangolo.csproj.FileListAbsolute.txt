@@ -1,0 +1,14 @@
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\bin\Debug\net8.0\ClasseRettangolo.exe
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\bin\Debug\net8.0\ClasseRettangolo.deps.json
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\bin\Debug\net8.0\ClasseRettangolo.runtimeconfig.json
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\bin\Debug\net8.0\ClasseRettangolo.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\bin\Debug\net8.0\ClasseRettangolo.pdb
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\obj\Debug\net8.0\ClasseRettangolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\obj\Debug\net8.0\ClasseRettangolo.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\obj\Debug\net8.0\ClasseRettangolo.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\obj\Debug\net8.0\ClasseRettangolo.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\obj\Debug\net8.0\ClasseRettangolo.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\obj\Debug\net8.0\refint\ClasseRettangolo.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\obj\Debug\net8.0\ClasseRettangolo.pdb
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\obj\Debug\net8.0\ClasseRettangolo.genruntimeconfig.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseRettangolo\obj\Debug\net8.0\ref\ClasseRettangolo.dll

@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\bin\Debug\net8.0\QuadratoSommaDispariN.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\bin\Debug\net8.0\QuadratoSommaDispariN.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\bin\Debug\net8.0\QuadratoSommaDispariN.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\bin\Debug\net8.0\QuadratoSommaDispariN.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\bin\Debug\net8.0\QuadratoSommaDispariN.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\obj\Debug\net8.0\QuadratoSommaDispariN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\obj\Debug\net8.0\QuadratoSommaDispariN.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\obj\Debug\net8.0\QuadratoSommaDispariN.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\obj\Debug\net8.0\QuadratoSommaDispariN.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\obj\Debug\net8.0\QuadratoSommaDispariN.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\obj\Debug\net8.0\refint\QuadratoSommaDispariN.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\obj\Debug\net8.0\QuadratoSommaDispariN.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\obj\Debug\net8.0\QuadratoSommaDispariN.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\QuadratoSommaDispariN\obj\Debug\net8.0\ref\QuadratoSommaDispariN.dll

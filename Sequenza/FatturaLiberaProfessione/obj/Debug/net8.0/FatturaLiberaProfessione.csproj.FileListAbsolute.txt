@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\bin\Debug\net8.0\FatturaLiberaProfessione.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\bin\Debug\net8.0\FatturaLiberaProfessione.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\bin\Debug\net8.0\FatturaLiberaProfessione.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\bin\Debug\net8.0\FatturaLiberaProfessione.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\bin\Debug\net8.0\FatturaLiberaProfessione.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\obj\Debug\net8.0\FatturaLiberaProfessione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\obj\Debug\net8.0\FatturaLiberaProfessione.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\obj\Debug\net8.0\FatturaLiberaProfessione.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\obj\Debug\net8.0\FatturaLiberaProfessione.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\obj\Debug\net8.0\FatturaLiberaProfessione.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\obj\Debug\net8.0\refint\FatturaLiberaProfessione.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\obj\Debug\net8.0\FatturaLiberaProfessione.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\obj\Debug\net8.0\FatturaLiberaProfessione.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\FatturaLiberaProfessione\obj\Debug\net8.0\ref\FatturaLiberaProfessione.dll

@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\bin\Debug\net8.0\NomiMesi.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\bin\Debug\net8.0\NomiMesi.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\bin\Debug\net8.0\NomiMesi.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\bin\Debug\net8.0\NomiMesi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\bin\Debug\net8.0\NomiMesi.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\obj\Debug\net8.0\NomiMesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\obj\Debug\net8.0\NomiMesi.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\obj\Debug\net8.0\NomiMesi.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\obj\Debug\net8.0\NomiMesi.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\obj\Debug\net8.0\NomiMesi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\obj\Debug\net8.0\refint\NomiMesi.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\obj\Debug\net8.0\NomiMesi.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\obj\Debug\net8.0\NomiMesi.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\NomiMesi\obj\Debug\net8.0\ref\NomiMesi.dll

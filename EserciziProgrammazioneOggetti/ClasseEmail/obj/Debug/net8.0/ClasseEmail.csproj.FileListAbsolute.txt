@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\obj\Debug\net8.0\ClasseEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\obj\Debug\net8.0\ClasseEmail.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\obj\Debug\net8.0\ClasseEmail.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\obj\Debug\net8.0\ClasseEmail.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\bin\Debug\net8.0\ClasseEmail.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\bin\Debug\net8.0\ClasseEmail.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\bin\Debug\net8.0\ClasseEmail.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\bin\Debug\net8.0\ClasseEmail.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\bin\Debug\net8.0\ClasseEmail.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\obj\Debug\net8.0\ClasseEmail.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\obj\Debug\net8.0\refint\ClasseEmail.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\obj\Debug\net8.0\ClasseEmail.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\obj\Debug\net8.0\ClasseEmail.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\ClasseEmail\obj\Debug\net8.0\ref\ClasseEmail.dll

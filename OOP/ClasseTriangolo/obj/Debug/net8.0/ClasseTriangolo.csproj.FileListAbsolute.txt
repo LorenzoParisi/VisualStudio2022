@@ -1,0 +1,14 @@
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\obj\Debug\net8.0\ClasseTriangolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\obj\Debug\net8.0\ClasseTriangolo.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\obj\Debug\net8.0\ClasseTriangolo.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\obj\Debug\net8.0\ClasseTriangolo.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\bin\Debug\net8.0\ClasseTriangolo.exe
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\bin\Debug\net8.0\ClasseTriangolo.deps.json
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\bin\Debug\net8.0\ClasseTriangolo.runtimeconfig.json
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\bin\Debug\net8.0\ClasseTriangolo.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\bin\Debug\net8.0\ClasseTriangolo.pdb
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\obj\Debug\net8.0\ClasseTriangolo.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\obj\Debug\net8.0\refint\ClasseTriangolo.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\obj\Debug\net8.0\ClasseTriangolo.pdb
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\obj\Debug\net8.0\ClasseTriangolo.genruntimeconfig.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseTriangolo\obj\Debug\net8.0\ref\ClasseTriangolo.dll

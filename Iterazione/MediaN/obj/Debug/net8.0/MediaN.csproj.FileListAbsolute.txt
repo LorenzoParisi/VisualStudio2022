@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\bin\Debug\net8.0\MediaN.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\bin\Debug\net8.0\MediaN.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\bin\Debug\net8.0\MediaN.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\bin\Debug\net8.0\MediaN.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\bin\Debug\net8.0\MediaN.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\obj\Debug\net8.0\MediaN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\obj\Debug\net8.0\MediaN.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\obj\Debug\net8.0\MediaN.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\obj\Debug\net8.0\MediaN.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\obj\Debug\net8.0\MediaN.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\obj\Debug\net8.0\refint\MediaN.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\obj\Debug\net8.0\MediaN.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\obj\Debug\net8.0\MediaN.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\MediaN\obj\Debug\net8.0\ref\MediaN.dll

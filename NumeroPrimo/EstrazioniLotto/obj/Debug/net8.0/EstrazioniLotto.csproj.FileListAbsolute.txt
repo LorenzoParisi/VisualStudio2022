@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\bin\Debug\net8.0\EstrazioniLotto.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\bin\Debug\net8.0\EstrazioniLotto.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\bin\Debug\net8.0\EstrazioniLotto.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\bin\Debug\net8.0\EstrazioniLotto.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\bin\Debug\net8.0\EstrazioniLotto.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\obj\Debug\net8.0\EstrazioniLotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\obj\Debug\net8.0\EstrazioniLotto.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\obj\Debug\net8.0\EstrazioniLotto.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\obj\Debug\net8.0\EstrazioniLotto.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\obj\Debug\net8.0\EstrazioniLotto.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\obj\Debug\net8.0\refint\EstrazioniLotto.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\obj\Debug\net8.0\EstrazioniLotto.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\obj\Debug\net8.0\EstrazioniLotto.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\NumeroPrimo\EstrazioniLotto\obj\Debug\net8.0\ref\EstrazioniLotto.dll

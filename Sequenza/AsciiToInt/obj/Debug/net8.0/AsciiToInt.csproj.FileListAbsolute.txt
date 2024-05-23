@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\bin\Debug\net8.0\AsciiToInt.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\bin\Debug\net8.0\AsciiToInt.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\bin\Debug\net8.0\AsciiToInt.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\bin\Debug\net8.0\AsciiToInt.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\bin\Debug\net8.0\AsciiToInt.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\obj\Debug\net8.0\AsciiToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\obj\Debug\net8.0\AsciiToInt.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\obj\Debug\net8.0\AsciiToInt.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\obj\Debug\net8.0\AsciiToInt.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\obj\Debug\net8.0\AsciiToInt.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\obj\Debug\net8.0\refint\AsciiToInt.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\obj\Debug\net8.0\AsciiToInt.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\obj\Debug\net8.0\AsciiToInt.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\AsciiToInt\obj\Debug\net8.0\ref\AsciiToInt.dll

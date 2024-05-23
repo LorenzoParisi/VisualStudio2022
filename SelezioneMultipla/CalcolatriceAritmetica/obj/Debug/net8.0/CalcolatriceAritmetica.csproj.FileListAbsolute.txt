@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\bin\Debug\net8.0\CalcolatriceAritmetica.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\bin\Debug\net8.0\CalcolatriceAritmetica.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\bin\Debug\net8.0\CalcolatriceAritmetica.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\bin\Debug\net8.0\CalcolatriceAritmetica.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\bin\Debug\net8.0\CalcolatriceAritmetica.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\obj\Debug\net8.0\CalcolatriceAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\obj\Debug\net8.0\CalcolatriceAritmetica.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\obj\Debug\net8.0\CalcolatriceAritmetica.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\obj\Debug\net8.0\CalcolatriceAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\obj\Debug\net8.0\CalcolatriceAritmetica.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\obj\Debug\net8.0\refint\CalcolatriceAritmetica.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\obj\Debug\net8.0\CalcolatriceAritmetica.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\obj\Debug\net8.0\CalcolatriceAritmetica.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\CalcolatriceAritmetica\obj\Debug\net8.0\ref\CalcolatriceAritmetica.dll

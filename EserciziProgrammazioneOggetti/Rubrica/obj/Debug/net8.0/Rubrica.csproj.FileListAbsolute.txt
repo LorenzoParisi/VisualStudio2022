@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\bin\Debug\net8.0\Rubrica.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\bin\Debug\net8.0\Rubrica.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\bin\Debug\net8.0\Rubrica.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\bin\Debug\net8.0\Rubrica.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\bin\Debug\net8.0\Rubrica.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\obj\Debug\net8.0\Rubrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\obj\Debug\net8.0\Rubrica.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\obj\Debug\net8.0\Rubrica.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\obj\Debug\net8.0\Rubrica.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\obj\Debug\net8.0\Rubrica.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\obj\Debug\net8.0\refint\Rubrica.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\obj\Debug\net8.0\Rubrica.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\obj\Debug\net8.0\Rubrica.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\Rubrica\obj\Debug\net8.0\ref\Rubrica.dll

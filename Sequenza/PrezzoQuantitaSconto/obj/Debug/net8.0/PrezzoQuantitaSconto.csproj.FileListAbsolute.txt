@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\bin\Debug\net8.0\PrezzoQuantitaSconto.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\bin\Debug\net8.0\PrezzoQuantitaSconto.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\bin\Debug\net8.0\PrezzoQuantitaSconto.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\bin\Debug\net8.0\PrezzoQuantitaSconto.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\bin\Debug\net8.0\PrezzoQuantitaSconto.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\obj\Debug\net8.0\PrezzoQuantitaSconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\obj\Debug\net8.0\PrezzoQuantitaSconto.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\obj\Debug\net8.0\PrezzoQuantitaSconto.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\obj\Debug\net8.0\PrezzoQuantitaSconto.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\obj\Debug\net8.0\PrezzoQuantitaSconto.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\obj\Debug\net8.0\refint\PrezzoQuantitaSconto.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\obj\Debug\net8.0\PrezzoQuantitaSconto.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\obj\Debug\net8.0\PrezzoQuantitaSconto.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Sequenza\PrezzoQuantitaSconto\obj\Debug\net8.0\ref\PrezzoQuantitaSconto.dll

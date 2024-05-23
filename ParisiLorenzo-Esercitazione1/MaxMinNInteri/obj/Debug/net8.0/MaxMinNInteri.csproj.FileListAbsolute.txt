@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\bin\Debug\net8.0\MaxMinNInteri.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\bin\Debug\net8.0\MaxMinNInteri.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\bin\Debug\net8.0\MaxMinNInteri.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\bin\Debug\net8.0\MaxMinNInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\bin\Debug\net8.0\MaxMinNInteri.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\obj\Debug\net8.0\MaxMinNInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\obj\Debug\net8.0\MaxMinNInteri.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\obj\Debug\net8.0\MaxMinNInteri.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\obj\Debug\net8.0\MaxMinNInteri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\obj\Debug\net8.0\MaxMinNInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\obj\Debug\net8.0\refint\MaxMinNInteri.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\obj\Debug\net8.0\MaxMinNInteri.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\obj\Debug\net8.0\MaxMinNInteri.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ParisiLorenzo-Esercitazione1\MaxMinNInteri\obj\Debug\net8.0\ref\MaxMinNInteri.dll

@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\bin\Debug\net8.0\LibroAutoreEditore.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\bin\Debug\net8.0\LibroAutoreEditore.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\bin\Debug\net8.0\LibroAutoreEditore.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\bin\Debug\net8.0\LibroAutoreEditore.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\bin\Debug\net8.0\LibroAutoreEditore.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\obj\Debug\net8.0\LibroAutoreEditore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\obj\Debug\net8.0\LibroAutoreEditore.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\obj\Debug\net8.0\LibroAutoreEditore.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\obj\Debug\net8.0\LibroAutoreEditore.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\obj\Debug\net8.0\LibroAutoreEditore.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\obj\Debug\net8.0\refint\LibroAutoreEditore.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\obj\Debug\net8.0\LibroAutoreEditore.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\obj\Debug\net8.0\LibroAutoreEditore.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\EserciziProgrammazioneOggetti\LibroAutoreEditore\obj\Debug\net8.0\ref\LibroAutoreEditore.dll

@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\bin\Debug\net8.0\Matite.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\bin\Debug\net8.0\Matite.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\bin\Debug\net8.0\Matite.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\bin\Debug\net8.0\Matite.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\bin\Debug\net8.0\Matite.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\obj\Debug\net8.0\Matite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\obj\Debug\net8.0\Matite.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\obj\Debug\net8.0\Matite.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\obj\Debug\net8.0\Matite.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\obj\Debug\net8.0\Matite.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\obj\Debug\net8.0\refint\Matite.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\obj\Debug\net8.0\Matite.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\obj\Debug\net8.0\Matite.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Ereditarieta\Matite\obj\Debug\net8.0\ref\Matite.dll

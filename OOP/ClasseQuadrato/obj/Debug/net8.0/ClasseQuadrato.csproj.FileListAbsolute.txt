@@ -1,0 +1,14 @@
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\bin\Debug\net8.0\ClasseQuadrato.exe
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\bin\Debug\net8.0\ClasseQuadrato.deps.json
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\bin\Debug\net8.0\ClasseQuadrato.runtimeconfig.json
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\bin\Debug\net8.0\ClasseQuadrato.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\bin\Debug\net8.0\ClasseQuadrato.pdb
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\obj\Debug\net8.0\ClasseQuadrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\obj\Debug\net8.0\ClasseQuadrato.AssemblyInfoInputs.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\obj\Debug\net8.0\ClasseQuadrato.AssemblyInfo.cs
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\obj\Debug\net8.0\ClasseQuadrato.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\obj\Debug\net8.0\ClasseQuadrato.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\obj\Debug\net8.0\refint\ClasseQuadrato.dll
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\obj\Debug\net8.0\ClasseQuadrato.pdb
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\obj\Debug\net8.0\ClasseQuadrato.genruntimeconfig.cache
+C:\Users\r.catalano\Desktop\ProgettiC#\OOP\ClasseQuadrato\obj\Debug\net8.0\ref\ClasseQuadrato.dll

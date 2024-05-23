@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\obj\Debug\net8.0\refint\GiornoSettimana.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\SelezioneMultipla\GiornoSettimana\obj\Debug\net8.0\ref\GiornoSettimana.dll

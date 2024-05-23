@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\bin\Debug\net8.0\Stampa100interiPositiviPari.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\bin\Debug\net8.0\Stampa100interiPositiviPari.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\bin\Debug\net8.0\Stampa100interiPositiviPari.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\bin\Debug\net8.0\Stampa100interiPositiviPari.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\bin\Debug\net8.0\Stampa100interiPositiviPari.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\obj\Debug\net8.0\Stampa100interiPositiviPari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\obj\Debug\net8.0\Stampa100interiPositiviPari.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\obj\Debug\net8.0\Stampa100interiPositiviPari.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\obj\Debug\net8.0\Stampa100interiPositiviPari.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\obj\Debug\net8.0\Stampa100interiPositiviPari.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\obj\Debug\net8.0\refint\Stampa100interiPositiviPari.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\obj\Debug\net8.0\Stampa100interiPositiviPari.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\obj\Debug\net8.0\Stampa100interiPositiviPari.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\Iterazione\Stampa100interiPositiviPari\obj\Debug\net8.0\ref\Stampa100interiPositiviPari.dll
