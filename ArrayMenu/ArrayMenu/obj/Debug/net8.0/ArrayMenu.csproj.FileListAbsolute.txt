@@ -1,0 +1,14 @@
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\bin\Debug\net8.0\ArrayMenu.exe
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\bin\Debug\net8.0\ArrayMenu.deps.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\bin\Debug\net8.0\ArrayMenu.runtimeconfig.json
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\bin\Debug\net8.0\ArrayMenu.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\bin\Debug\net8.0\ArrayMenu.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\obj\Debug\net8.0\ArrayMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\obj\Debug\net8.0\ArrayMenu.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\obj\Debug\net8.0\ArrayMenu.AssemblyInfo.cs
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\obj\Debug\net8.0\ArrayMenu.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\obj\Debug\net8.0\ArrayMenu.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\obj\Debug\net8.0\refint\ArrayMenu.dll
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\obj\Debug\net8.0\ArrayMenu.pdb
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\obj\Debug\net8.0\ArrayMenu.genruntimeconfig.cache
+C:\Users\ICTS23-25.282\source\repos\NewMarzo24\ArrayMenu\ArrayMenu\obj\Debug\net8.0\ref\ArrayMenu.dll
